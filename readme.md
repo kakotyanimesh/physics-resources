@@ -23,6 +23,8 @@ A running list of learning resources, organized by subject. Add links as you fin
 - [ Course: Quantum Field Theory I - Prof. Horatiu Nastase ](https://youtube.com/playlist?list=PL5-Gs_CjccK7-967BNLb7G-2UKpDXGIi_&si=PKyAwDZz9-qiK84N)
 
 - [ Course: Quantum Field Theory II - Prof. Horatiu Nastase ](https://youtube.com/playlist?list=PL5-Gs_CjccK7yhuS67UwbbaRtVVS2PeAk&si=ifFzz3EsRoM_4v3R)
+  
+- [ Course: Quantum Sivakumar Rajagopalan, PhD Physics (IIT Madras) ](https://youtu.be/pfYdDIePPhc?si=TpQ-yJt_mimO1oi2)
 
 ### Websites / Docs
 - [David Tong Introduction to QM](https://davidtong.org/teaching/quantum-mechanics/)
