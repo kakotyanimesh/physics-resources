@@ -112,5 +112,8 @@ A running list of learning resources, organized by subject. Add links as you fin
 ### Websites / Docs
  
 ### Papers / PDFs -->
+### Avshalom Elitzur the man behind the bomb experiment
+- [Lecture one](https://youtu.be/G5PLbJQbqS8?si=EhSVc_cO4grfu7rz)
+- [his website](https://avshalom-elitzur.academy/)
 
 @animeshkakoty
